@@ -1,0 +1,7 @@
+.vscode/
+venv/
+__pycache__/
+*.lnk
+
+re.yml
+run.bat
